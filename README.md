@@ -30,4 +30,4 @@ Note this is just an template and all turtles are encourgaed to be creative. Tur
 - <Key papers, tutorials, related Turing House talks>
 
 ---
-Part of the [Turing House Community](https://github.com/turing-house-iitgn), IITGN CSE.
+Part of the [Turing House Community](https://github.com/turing-house-community), IITGN CSE.
